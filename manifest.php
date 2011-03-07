@@ -1,0 +1,5 @@
+<?
+
+$manifest = array(
+  'requires'=>'activerecord'
+);
